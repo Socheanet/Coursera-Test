@@ -1,0 +1,28 @@
+h1 {
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	text-align: center;
+
+}
+
+
+section {
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	background-color: gray;
+	padding: 1px;
+	border: 1px solid black;
+	width: 400px;
+	position: relative;
+	margin-top: 60px;
+
+
+}
+p{
+	
+	color: black;
+	position: relative;
+	clear: right;
+	padding: 10px;
+	
+
+	
+}
